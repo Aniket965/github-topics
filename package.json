@@ -1,6 +1,6 @@
 {
   "name": "github-topics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node module for getting topics of any github repo easily",
   "main": "index.js",
  
