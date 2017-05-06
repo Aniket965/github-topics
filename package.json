@@ -1,0 +1,32 @@
+{
+  "name": "github-topics",
+  "version": "1.0.0",
+  "description": "node module for getting topics of any github repo easily",
+  "main": "index.js",
+ 
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "sync-request": "^4.0.3"
+  },
+
+
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket965/github-topics.git"
+  },
+  "keywords": [
+    "github",
+    "topics",
+    "get"
+  ],
+  "author": "aniket965",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aniket965/github-topics/issues"
+  },
+  "homepage": "https://github.com/Aniket965/github-topics#readme"
+}
