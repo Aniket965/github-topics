@@ -13,7 +13,7 @@ npm install github-topics
 
 
 ```javascript
-var github_topics = require('./github-topics');
+var github_topics = require('github-topics');
 var topics = github_topics.gettopics('https://github.com/Aniket965/blog');
 console.log(topics);
 // output
